@@ -1,4 +1,8 @@
-### Hi there 👋
+![github_profile](https://user-images.githubusercontent.com/89868399/201363594-83cdefeb-4a0d-4392-84d0-5e56c9636af0.png)
+
+
+![Hi](https://user-images.githubusercontent.com/89868399/201363965-50c29268-b642-484c-92c4-50ba4625477d.gif)
+
 
 <!--
 **cintiadiiorio/cintiadiiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
