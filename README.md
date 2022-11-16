@@ -1,31 +1,31 @@
 ![github_profile](https://user-images.githubusercontent.com/89868399/201363594-83cdefeb-4a0d-4392-84d0-5e56c9636af0.png)
 
 
-## Olá!! ![Hi](https://user-images.githubusercontent.com/89868399/201363965-50c29268-b642-484c-92c4-50ba4625477d.gif) 
 
-Me chamo Cíntia (mas meus amigos me chamam de *Cosplay* ✨), estou no meu último ano de Relações Internacionais pela Unesp e sou formada no Técnico de Informática para Internet pela ETEC. 
+### Olá!! 👋 Eu sou a *Cosplay* ✨
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diioriocintia@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@cosplayunesp)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Cosplay)
+
+
+Estou no meu último ano de Relações Internacionais pela Unesp e sou formada no Técnico de Informática para Internet pela ETEC. 
+
 Atualmente, estagio no Laboratório de Relações Internacionais da Unesp de Franca, desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados aos docentes e discentes do curso de RI. 
+
 Em períodos mais livres, realizo free-lances na área de marketing digital e dando aulas de japonês.  
+
 Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de Negócios B2B na AIESEC de Franca, uma organização sem fins lucrativos. 
 
 
+![Cosplay GitHub stats](https://github-readme-stats.vercel.app/api?username=cintiadiiorio&show_icons=true&theme=tokyonight) 
+
+
+### Tecnologias do meu dia a dia 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiadiiorio&layout=compact&theme=tokyonight)](https://github.com/cintiadiiorio/github-readme-stats)
+
 
 #### ✨ Minha visão de futuro é:
-Ser uma pesquisadora remota, viajando e unindo trabalhos diplomáticos com tecnologia, usando do conhecimento de diferentes idiomas e a vontade de expandir minhas bagagens culturais e intelectuais.
-
-
-
-<!--
-**cintiadiiorio/cintiadiiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ser uma pesquisadora remota 🔭, viajando e unindo trabalhos diplomáticos com tecnologia, usando do conhecimento de diferentes idiomas e a vontade de expandir minhas bagagens culturais e intelectuais 🌱.
+ 
