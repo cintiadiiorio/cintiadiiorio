@@ -1,6 +1,6 @@
 ![github_profile](https://user-images.githubusercontent.com/89868399/201363594-83cdefeb-4a0d-4392-84d0-5e56c9636af0.png)
 
-
+<div align="center">
 
 ### Olá!! 👋 Eu sou a *Cosplay* ✨
 
@@ -36,3 +36,5 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
 Ser uma pesquisadora remota 🔭, viajando e unindo trabalhos diplomáticos com tecnologia, usando do conhecimento de diferentes idiomas e a vontade de expandir minhas bagagens culturais e intelectuais 🌱.
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiadiiorio&layout=compact&theme=tokyonight)](https://github.com/cintiadiiorio/github-readme-stats)
+ 
+ </div>
