@@ -22,10 +22,17 @@ Já atuei também na área de Marketing B2C e como Gerente de Desenvolvimento de
 
 
 ### Tecnologias do meu dia a dia 
+<div style="display: inline_block"><br/>
+ <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+</div> <br/>
+<div style="display: inline_block">
+ <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div> 
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiadiiorio&layout=compact&theme=tokyonight)](https://github.com/cintiadiiorio/github-readme-stats)
 
 
 #### ✨ Minha visão de futuro é:
 Ser uma pesquisadora remota 🔭, viajando e unindo trabalhos diplomáticos com tecnologia, usando do conhecimento de diferentes idiomas e a vontade de expandir minhas bagagens culturais e intelectuais 🌱.
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintiadiiorio&layout=compact&theme=tokyonight)](https://github.com/cintiadiiorio/github-readme-stats)
